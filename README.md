@@ -11,7 +11,7 @@
 [4] Mikolov, Tomas, et al. "[Efficient estimation of word representations in vector space](http://arxiv.org/abs/1301.3781)." arXiv preprint arXiv:1301.3781 (2013).
 
 
-## CNN Based (Sentence, Document)
+## CNN Based (Sentence to Document)
 [1] Kalchbrenner, Nal, Edward Grefenstette, and Phil Blunsom. "[A convolutional neural network for modelling sentences](http://www.aclweb.org/anthology/P14-1062)." arXiv preprint arXiv:1404.2188(2014). [CNN]
 
 [2] Hu, Baotian, et al. "[Convolutional neural network architectures for matching natural language sentences](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/hu-etal-nips2014.pdf)." Advances in Neural Information Processing Systems. 2014. [CNN]
@@ -23,7 +23,7 @@
 [5] Conneau, Alexis, et al. "[Very Deep Convolutional Networks for Natural Language Processing](http://arxiv.org/abs/1606.01781)." arXiv preprint arXiv:1606.01781 (2016). [Deep CNN]
 
 
-## RNN Based (Sentence, Paragraph, Document)
+## RNN Based (Sentence to Document)
 [1] Tang, Duyu, Bing Qin, and Ting Liu. "[Document modeling with gated recurrent neural network for sentiment classification](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP167.pdf)." Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing. 2015. [RNN]
 
 [2] Li, Jiwei, Minh-Thang Luong, and Dan Jurafsky. "[A hierarchical neural autoencoder for paragraphs and documents](https://arxiv.org/abs/1506.01057)." arXiv preprint arXiv:1506.01057 (2015). [LSTM, Attention]
