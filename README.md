@@ -1,4 +1,4 @@
-# Neural Networks for text representation
+# Neural networks for text representation
 
 
 ## 2016
