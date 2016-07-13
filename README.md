@@ -3,6 +3,8 @@
 
 ## 2016
 
+* Joulin, Armand, et al. "[Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)." arXiv preprint arXiv:1607.01759 (2016).
+* 
 * Hill, Felix, Kyunghyun Cho, and Anna Korhonen. "[Learning distributed representations of sentences from unlabelled data](http://arxiv.org/abs/1602.03483)." arXiv preprint arXiv:1602.03483 (2016).
 * Ghosh, Shalini, et al. "[Contextual LSTM (CLSTM) models for Large scale NLP tasks](https://arxiv.org/abs/1602.06291)." arXiv preprint arXiv:1602.06291 (2016). [Contextual LSTM]
 * Miyamoto, Yasumasa, Kyunghyun Cho. "[Gated Word-Character Recurrent Language Model](https://arxiv.org/abs/1606.01700)." arXiv preprint arXiv:1606.01700 (2016) [Combine word and character embeddings]
